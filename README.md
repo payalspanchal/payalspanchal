@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @payalspanchal
+- 👀 I’m interested in Front-end technologies
+- 🌱 I’m currently learning React.Js and Angular
+- 💞️ I’m looking to collaborate with Front-end developers
+- 📫 How to reach me: payalspanchal@outlook.com
